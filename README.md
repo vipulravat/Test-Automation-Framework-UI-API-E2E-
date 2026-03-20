@@ -1,4 +1,4 @@
-~ Test Automation Framework (UI + API + E2E)
+// Test Automation Framework (UI + API + E2E) //
 
 A scalable and production-ready automation framework built using **Python, Playwright, and pytest**.
 
